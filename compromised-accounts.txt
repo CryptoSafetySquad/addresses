@@ -1,0 +1,8 @@
+! The following list of accounts are known to be compromised, it is therefor recommended to never interact with the accounts, published for research and or for any exchanges who want to implement any further checks for suspicious activity
+
+! compromised seed phrases
+! ------------------------
+civil cluster crop surprise giggle vessel runway click category confirm quality dilemma
+
+! compromised addresses
+0x046c62F122c52500fB2AAC3784d5730E44faf977
