@@ -2,8 +2,8 @@
 
 ! compromised seed phrases
 ! ------------------------
-civil cluster crop surprise giggle vessel runway click category confirm quality dilemma
+1. civil cluster crop surprise giggle vessel runway click category confirm quality dilemma
 
 ! compromised addresses
-EVM: 0x046c62F122c52500fB2AAC3784d5730E44faf977
-TRON: THBcjMRCoFYAzVgrptJh9mUGdLHE6pjmTg
+EVM: 0x046c62F122c52500fB2AAC3784d5730E44faf977 (1)
+TRON: THBcjMRCoFYAzVgrptJh9mUGdLHE6pjmTg (1)
