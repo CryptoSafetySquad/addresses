@@ -5,4 +5,5 @@
 civil cluster crop surprise giggle vessel runway click category confirm quality dilemma
 
 ! compromised addresses
-0x046c62F122c52500fB2AAC3784d5730E44faf977
+EVM: 0x046c62F122c52500fB2AAC3784d5730E44faf977
+TRON: THBcjMRCoFYAzVgrptJh9mUGdLHE6pjmTg
